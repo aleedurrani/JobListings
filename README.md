@@ -20,7 +20,7 @@ This is a static website built using HTML, CSS, and JavaScript, displaying job l
 ## Setup
 ### Clone the repository:
 
-- git clone https://github.com/aleedurrani/aleedurrani.github.io.git
+- git clone https://github.com/aleedurrani/JobListings.git
 - Open **index.html** in your web browser to view the website.
 
 ## Usage
@@ -28,9 +28,6 @@ This is a static website built using HTML, CSS, and JavaScript, displaying job l
 - Use filters to narrow down job listings based on your preferences.
 - Click on a job listing to view detailed information in a popup.
 - Close the popup by clicking the "X" button or delete a job listing using the delete button.
-
-## Access
-The website is hosted on GitHub Pages and can be accessed directly through your browser by visiting https://aleedurrani.github.io/ 
 
 
 ## License
